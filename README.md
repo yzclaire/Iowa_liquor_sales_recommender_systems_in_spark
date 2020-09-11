@@ -23,7 +23,6 @@ Method : Collaborative Filtering
 
 PySpark MLlib: Alternating Least Squares (ALS) algorithm
 
-
 ### Recommender Systems built
 1. ALS with Explicit preferences (custom rating)
 2. ALS with Implicit feedback (percentage of total order cost)
